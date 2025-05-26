@@ -1,4 +1,4 @@
-module distbuild/boong/utils
+module github.com/distbuild/utils
 
 go 1.23.1
 
